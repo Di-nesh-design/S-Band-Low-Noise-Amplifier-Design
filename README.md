@@ -2,7 +2,7 @@
 
 Design, simulation and PCB layout of a single-stage low noise amplifier (LNA) centered at **2.4 GHz** (lower S-band), using the Infineon **BFP405** silicon NPN RF transistor and **microstrip matching networks**.
 
-> **Status:** Simulation and PCB layout complete. Board fabrication and VNA / noise-figure measurements are pending.
+> **Status:** Simulation complete. Board layout and fabrication and VNA / noise-figure measurements are pending.
 
 **Research Project (EC4095), 2026-2027**
 Department of Electronics and Communication Engineering
@@ -207,17 +207,14 @@ Simulated in Keysight ADS:
 ## Authors
 
 - **Dinesh Behera**
-- **Mihir Kumar Behera**
 
-Department of Electronics and Communication Engineering
-Supervisor: Prof. Prasun Chongder
+
+
 
 ---
 
-## License
 
-This project is released under the [MIT License](LICENSE). The report text may be reused under CC BY 4.0 if you prefer; change this section to match the license you choose.
 
 ## Acknowledgment
 
-The authors thank Prof. Prasun Chongder for guidance throughout the Research Project (EC4095).
+The authors thank Prof. Prasun Chongder for guidance throughout the Research Project.
