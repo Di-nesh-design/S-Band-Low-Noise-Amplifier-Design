@@ -60,7 +60,8 @@ Simulated in Keysight ADS:
 - S11 is better than -10 dB from about 2.4 to 2.7 GHz.
 - The response is narrowband, as expected from a single-stage, stub-matched design.
 
-![Simulated S21 and S11](images/s21_s11_plot.png)
+![Simulated S22 and S11](<img width="591" height="355" alt="Screenshot 2026-11-04 125706" src="https://github.com/user-attachments/assets/bf286fec-4726-4e4d-b78b-a2539396d1a2" />
+)
 
 ---
 
